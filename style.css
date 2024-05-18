@@ -1,0 +1,42 @@
+html {
+    display: block;
+}
+
+body {
+    display: block;
+    margin: 8px;
+    text-align: center;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.banner {
+    background-color: #db6363;
+    color: #ffffff;
+    font-family: Poppins;
+}
+
+.about {
+    background-color: #f0f0f0;
+    padding-bottom: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-gap: 20px;
+}
+
+.box {
+    background-color: #2f2f2f;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
